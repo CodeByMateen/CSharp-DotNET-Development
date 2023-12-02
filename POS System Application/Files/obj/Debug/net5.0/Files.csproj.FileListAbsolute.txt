@@ -1,0 +1,32 @@
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.exe
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.deps.json
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.runtimeconfig.json
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.runtimeconfig.dev.json
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.dll
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\ref\Files.dll
+Z:\Mateen's Data\POS System Application\Files\bin\Debug\net5.0\Files.pdb
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.csproj.AssemblyReference.cache
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.AssemblyInfoInputs.cache
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.AssemblyInfo.cs
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.csproj.CoreCompileInputs.cache
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.dll
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\ref\Files.dll
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.pdb
+Z:\Mateen's Data\POS System Application\Files\obj\Debug\net5.0\Files.genruntimeconfig.cache
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.exe
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.deps.json
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.runtimeconfig.json
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.runtimeconfig.dev.json
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.dll
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\ref\Files.dll
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\bin\Debug\net5.0\Files.pdb
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.csproj.AssemblyReference.cache
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.AssemblyInfoInputs.cache
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.AssemblyInfo.cs
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.csproj.CoreCompileInputs.cache
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.dll
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\ref\Files.dll
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.pdb
+Z:\Mateen's Data\SCD_Assignment 1 (POS System Application) F2020065050 - Muhammad Mateen Shahzad\POS System Application\Files\obj\Debug\net5.0\Files.genruntimeconfig.cache
