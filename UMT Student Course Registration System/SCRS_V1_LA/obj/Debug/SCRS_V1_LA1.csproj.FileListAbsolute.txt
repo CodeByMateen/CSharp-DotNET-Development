@@ -1,0 +1,60 @@
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3.mdf
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3_log.ldf
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe.config
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.pdb
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AdminMainGUI.resources
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.LoginGUI.resources
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.StudentMainGUI.resources
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.WrongUserGUI.resources
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.Properties.Resources.resources
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.GenerateResource.cache
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.exe
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.pdb
+C:\Users\Arslan\source\repos\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.FacultyMainGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3.mdf
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3_log.ldf
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe.config
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.pdb
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.AssemblyReference.cache
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerMainGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AcedamicOfficerSectionsGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AcedamicOfficerStudentGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AdminMainGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.FacultyMainGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.LoginGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.StudentMainGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.WrongUserGUI.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.Properties.Resources.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.GenerateResource.cache
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.CoreCompileInputs.cache
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.exe
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.pdb
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AddCourse.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AddSection.resources
+C:\Users\Zoraiz\Downloads\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.ChangeCapacity.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3.mdf
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\SCRS_W3_log.ldf
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe.config
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.exe
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\bin\Debug\Lect25_W3_LA.pdb
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.AssemblyReference.cache
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerMainGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AcedamicOfficerSectionsGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AcedamicOfficerStudentGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AddCourse.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.AddSection.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AcedamicOfficerGUI.ChangeCapacity.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.AdminMainGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.FacultyMainGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.LoginGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.StudentMainGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.GUI.WrongUserGUI.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.Properties.Resources.resources
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.GenerateResource.cache
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\SCRS_V1_LA1.csproj.CoreCompileInputs.cache
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.exe
+C:\Users\F2020065050\Downloads\0newDownloadData\SCRS (Completed) Assignment 5 - F2020065050 Muhammad Mateen Shahzad\SCRS_V1_LA\SCRS_V1_LA\obj\Debug\Lect25_W3_LA.pdb

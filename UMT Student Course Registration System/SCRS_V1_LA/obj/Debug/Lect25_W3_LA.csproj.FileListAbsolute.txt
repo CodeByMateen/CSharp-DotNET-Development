@@ -1,0 +1,15 @@
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\bin\Debug\Lect25_W3_LA.exe.config
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\bin\Debug\Lect25_W3_LA.exe
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\bin\Debug\Lect25_W3_LA.pdb
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.csprojAssemblyReference.cache
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.LoginGUI.resources
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.Properties.Resources.resources
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.csproj.GenerateResource.cache
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.csproj.CoreCompileInputs.cache
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.exe
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.pdb
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\bin\Debug\SCRS_W3.mdf
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\bin\Debug\SCRS_W3_log.ldf
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.GUI.AdminMainGUI.resources
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.GUI.WrongUserGUI.resources
+C:\Users\Arslan\source\repos\Lect25_W3_LA\Lect25_W3_LA\obj\Debug\Lect25_W3_LA.GUI.StudentMainGUI.resources
